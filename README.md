@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sarabjit07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sarabjit07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarabjit07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sarabjit07" height="30" width="40" /></a>
-<a href="https://www.instagram.com/codewithsarabjit/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="codewithsarabjit" height="30" width="40" /></a>
+<a href="https://twitter.com/sarabjit07" target="blank"><img align="center" src="https://github.com/codewithsarabjit/codewithsarabjit/blob/main/icons/twitter.svg" alt="sarabjit07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarabjit07" target="blank"><img align="center" src="https://github.com/codewithsarabjit/codewithsarabjit/blob/main/icons/linked-in.svg" alt="sarabjit07" height="30" width="40" /></a>
+<a href="https://www.instagram.com/codewithsarabjit/" target="blank"><img align="center" src="https://github.com/codewithsarabjit/codewithsarabjit/blob/main/icons/instagram.svg" alt="codewithsarabjit" height="30" width="40" /></a>
 </p>
 
 
