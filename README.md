@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Sarabjit Singh</h1>
+<h3 align="center">A Fullstack Developer and Data Science Enthusiast</h3>
+
 🔭 I’m currently working on <strong>Feedback Project</strong><br>🌱 I’m currently learning <strong>Advanced Data Structures, Nodejs</strong><br>👯 I’m looking for collaboration on my [Instagram Account](https://www.instagram.com/codewithsarabjit/)<br>👨‍💻 All of my public projects are available at [Github Repositories](https://github.com/codewithsarabjit?tab=repositories)<br>💬 Ask me about <strong>Javascript, Typescript, Vue, React, PHP, Laravel</strong><br>📫 How to reach me <strong>sarabjitsingh23@gmail.com</strong><br>📄 Know more about me on my Linkedin Profile [https://www.linkedin.com/in/sarabjit07/](https://www.linkedin.com/in/sarabjit07/)  
 
 
